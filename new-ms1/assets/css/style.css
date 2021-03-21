@@ -87,7 +87,7 @@ h2{
 }
 
 button{
-    font-size: large;
+    font-size: small;
     color: #1a581a;
     border-radius: 4px;
     transition-duration: 0.4s;
@@ -258,4 +258,28 @@ body{
     object-fit: fill;
     height: 340px;
     width: 300px;
+}
+
+.ninth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+    position: center;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Shippori Mincho B1', sans-serif;
+}
+
+/*-----------------------------------View More Product page*/
+
+.heaven-scent{
+    background: url("../images/image0.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 340px;
+    min-height: 360px;
+
 }
