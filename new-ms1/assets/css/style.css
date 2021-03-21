@@ -208,3 +208,54 @@ body{
 .policy{
     text-align: center;
 }
+
+/*-----------------------------------Product Page*/
+
+
+.first-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.second-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.third-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.fourth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.fifth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.sixth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.seventh-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
+
+.eighth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 300px;
+}
