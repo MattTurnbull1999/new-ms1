@@ -279,7 +279,21 @@ h4{
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    min-width: 340px;
-    min-height: 360px;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+
+}
+
+.tropical-summer{
+    background: url("../images/image3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
 
 }
