@@ -342,3 +342,36 @@ h4{
     max-width: 600px;
     max-height: 600px;
 }
+
+.caribbean-twist{
+    background: url("../images/mothersday.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.mammamia{
+    background: url("../images/purple:pink.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.valentines{
+    background: url("../images/valentinesbox.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+}
