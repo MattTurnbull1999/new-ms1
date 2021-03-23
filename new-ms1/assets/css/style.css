@@ -320,3 +320,25 @@ h4{
     max-width: 600px;
     max-height: 600px;
 }
+
+.universe{
+    background: url("../images/image10.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+.mellow-yellow{
+    background: url("../images/image6.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-width: 440px;
+    min-height: 460px;
+    max-width: 600px;
+    max-height: 600px;
+}
