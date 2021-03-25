@@ -1,59 +1,12 @@
 /*--------------------Navbar*/
 
-
-.navbar-nav{
+.nav-item{
     float: right;
 }
 
-.navbar-brand{
-    
-    font-family: 'Playfair Display SC', serif;
-    margin-left: 166px;
-    color: #1a581a;
+.slide-show{
+    text-align: center;
 }
-
-.nav-link{
-    font-family: 'Playfair Display SC', serif;
-    float: right;
-}
-
-
-
-#hero-image{
-    margin-top: 125px;
-    max-width: 500px;
-}
-
-
-h5{
-    font-family: 'Shippori Mincho B1', sans-serif;
-    margin-top: 100px;
-    font-weight: 50;
-    color: #1a581a;
-    
-}
-
-.quote{
-    font-family: 'Playfair Display SC', serif;
-    margin-top: 200px;
-    color: #1a581a;
-}
-
-
-.shop-now{
-    float: right;
-    margin-right: 75px;
-    width: 50%;
-}
-
-.box{
-  width: 500px;
-  border: 15px solid #1a581a;
-  padding: 50px;
-  margin: 20px;
-  
-}
-
 
 /*-------------------------------best-seller*/
 h6{
