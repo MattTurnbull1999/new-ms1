@@ -1,10 +1,16 @@
 /*--------------------Navbar*/
 
-.nav-item{
-    float: right;
+
+
+.title{
+    font-family: 'Playfair Display SC', serif;
 }
 
-.slide-show{
+/*--------------------Business Ethos*/
+
+p{
+    color: #1a581a;
+    font-family: 'Shippori Mincho B1', sans-serif;
     text-align: center;
 }
 
