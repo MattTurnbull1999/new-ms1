@@ -1,9 +1,13 @@
 /*--------------------Navbar*/
 
-
+.nav-link{
+    font-family: 'Playfair Display SC', serif;
+    color: #1a581a;
+}
 
 .title{
     font-family: 'Playfair Display SC', serif;
+    color: #1a581a;
 }
 
 /*--------------------Business Ethos*/
