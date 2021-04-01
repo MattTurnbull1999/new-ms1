@@ -192,56 +192,55 @@ body{
 .first-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .second-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .third-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .fourth-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .fifth-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .sixth-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .seventh-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .eighth-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
+    width: 255px;
 }
 
 .ninth-product{
     object-fit: fill;
     height: 340px;
-    width: 340px;
-    position: center;
+    width: 255px;
 }
 
 h4{
@@ -362,4 +361,29 @@ h4{
 
 .fa-7x{
     color: #1a581a;
+}
+
+
+/*-----------------------------------View More Product page*/
+
+@media screen and (max-width: 500px)
+{
+    .first-picture{
+        margin-left: 65px;
+    }
+    
+    .second-picture{
+        margin-left: 65px;
+    }
+
+    .third-picture{
+       margin-left: 65px;
+    }
+}
+
+@media screen and (max-width: 1030px){
+    .first-product{
+        width: 268.61;
+        height: 340;
+    }
 }
