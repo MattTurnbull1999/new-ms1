@@ -1,4 +1,4 @@
-/*--------------------Navbar*/
+/*---------------------------------Navbar*/
 
 .nav-link{
     font-family: 'Playfair Display SC', serif;
@@ -10,7 +10,7 @@
     color: #1a581a;
 }
 
-/*--------------------Business Ethos*/
+/*----------------------------Business Ethos*/
 
 p{
     color: #1a581a;
@@ -40,16 +40,19 @@ h6{
     max-width: 268.61x;
     max-height: 340px;
     display: flex;
+    margin-left: 45px;
 }
 
 .second-picture{
     max-width: 268.61px;
     max-height: 340px;
+    margin-left: 45px;
 }
 
 .third-picture{
     max-width: 268.61px;
     max-height: 340px;
+    margin-left: 45px;
 }
 
 h2{
@@ -109,7 +112,7 @@ ul{
 .fab{
     color: #1a581a;
 }
-/*-----------------------------------Background color */
+/*----------------------------------------Background color */
 
 
 #hero-outer{
@@ -128,7 +131,7 @@ body{
     background-color: #f4f3ee;
 }
 
-/*-----------------------------------About us */
+/*--------------------------------------------About us */
 
 #about-us{
     margin-top: 50px;
@@ -193,54 +196,63 @@ body{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .second-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .third-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px;
 }
 
 .fourth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px;
 }
 
 .fifth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .sixth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .seventh-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .eighth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 .ninth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
+    margin-left: 45px
 }
 
 h4{
@@ -366,24 +378,3 @@ h4{
 
 /*-----------------------------------View More Product page*/
 
-@media screen and (max-width: 500px)
-{
-    .first-picture{
-        margin-left: 65px;
-    }
-    
-    .second-picture{
-        margin-left: 65px;
-    }
-
-    .third-picture{
-       margin-left: 65px;
-    }
-}
-
-@media screen and (max-width: 1030px){
-    .first-product{
-        width: 268.61;
-        height: 340;
-    }
-}
