@@ -37,19 +37,19 @@ h6{
 }
 
 .first-picture{
-    max-width: 300px;
-    max-height: 380px;
+    max-width: 268.61x;
+    max-height: 340px;
     display: flex;
 }
 
 .second-picture{
-    max-width: 300px;
-    max-height: 380px;
+    max-width: 268.61px;
+    max-height: 340px;
 }
 
 .third-picture{
-    max-width: 300px;
-    max-height: 380px;
+    max-width: 268.61px;
+    max-height: 340px;
 }
 
 h2{
@@ -77,6 +77,11 @@ button:hover{
     font-family: 'Playfair Display SC', serif;
     margin-top: 100px;
 }
+
+footer{
+    background-color: #1a581a;
+}
+
 
 h2{
     text-align: center;
@@ -187,55 +192,55 @@ body{
 .first-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .second-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .third-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .fourth-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .fifth-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .sixth-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .seventh-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .eighth-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
 }
 
 .ninth-product{
     object-fit: fill;
     height: 340px;
-    width: 300px;
+    width: 340px;
     position: center;
 }
 
@@ -355,6 +360,6 @@ h4{
     width: 100%;
 }
 
-.fa-10x{
+.fa-7x{
     color: #1a581a;
 }
