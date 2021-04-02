@@ -196,7 +196,7 @@ body{
 .first-product{
     object-fit: fill;
     height: 340px;
-    width: 255px
+    width: 255px;
     margin-left: 45px;
 }
 
@@ -269,10 +269,6 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
-    
-
-
-
 }
 
 .tropical-summer{
@@ -281,8 +277,6 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
-   
-
 }
 
 .pretty-in-pink{
@@ -300,16 +294,15 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+}
 
 .universe{
     background: url("../images/image10.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    min-width: 440px;
-    min-height: 460px;
-    max-width: 600px;
-    max-height: 600px;
+    min-height: 600px;
+    
 }
 
 .mellow-yellow{
