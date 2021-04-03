@@ -46,6 +46,9 @@ h5{
     font-family: 'Playfair Display SC', serif;
 }
 
+section{
+    background-color: #f4f3ee;
+}
 
 /*-------------------------------best-seller*/
 h6{
@@ -266,6 +269,27 @@ ul{
 }
 
 .ninth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 255px;
+    margin-left: 45px
+}
+
+.tenth-product{
+    object-fit: fill;
+    height: 340px;
+    width: 255px;
+    margin-left: 45px
+}
+
+.eleventh-product{
+    object-fit: fill;
+    height: 340px;
+    width: 255px;
+    margin-left: 45px
+}
+
+.twelfth-product{
     object-fit: fill;
     height: 340px;
     width: 255px;
