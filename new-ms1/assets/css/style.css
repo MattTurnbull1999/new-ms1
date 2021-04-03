@@ -38,7 +38,7 @@ p{
 }
 
 .business-ethos{
-    margin-top: 100px;
+    padding-top: 100px;
     background-color: #f4f3ee;
 }
 
@@ -80,7 +80,7 @@ h6{
 
 h2{
     font-family: 'Playfair Display SC', serif;
-    margin-top: 100px;
+    padding-top: 25px;
     color: #1a581a;
 }
 
@@ -101,7 +101,7 @@ button:hover{
 .contact-us {
     text-align: center;
     font-family: 'Playfair Display SC', serif;
-    margin-top: 100px;
+    padding-top: 30px;
     color: #f4f3ee
 }
 
@@ -152,12 +152,12 @@ ul{
 /*--------------------------------------------About us */
 
 #about-us{
-    margin-top: 50px;
+    padding-top: 50px;
     font-family: 'Shippori Mincho B1', sans-serif;
 }
 
 #three-parts{
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 
@@ -309,6 +309,7 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
 }
 
 .tropical-summer{
