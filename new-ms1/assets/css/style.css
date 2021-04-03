@@ -1,14 +1,32 @@
 /*---------------------------------Navbar*/
 
-.nav-link{
+
+.navbar-light .navbar-brand{
+    color: #f4f3ee;
     font-family: 'Playfair Display SC', serif;
-    color: #1a581a;
-    
+}
+
+.navbar-expand-lg{
+    background-color: #1a581a;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #f4f3ee;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #f4f3ee;
+    font-family: 'Playfair Display SC', serif;
 }
 
 .title{
     font-family: 'Playfair Display SC', serif;
     color: #1a581a;
+}
+
+.bg-light{
+    background-color: #1a581a;
 }
 
 /*----------------------------Business Ethos*/
@@ -21,6 +39,7 @@ p{
 
 .business-ethos{
     margin-top: 100px;
+    background-color: #f4f3ee;
 }
 
 h5{
@@ -80,21 +99,19 @@ button:hover{
     text-align: center;
     font-family: 'Playfair Display SC', serif;
     margin-top: 100px;
+    color: #f4f3ee
 }
-
-footer{
-    background-color: #1a581a;
-}
-
 
 h2{
     text-align: center;
-    font-family: 'Playfair Display SC', serif;
-    
 }
 
-p{
-    color: #1a581a;
+footer{
+    background-color: #1a581a;;
+}
+
+.footer-email {
+    color: #f4f3ee;
     font-family: 'Shippori Mincho B1', sans-serif;
     text-align: center;
 
@@ -122,13 +139,10 @@ ul{
     background-color: #f4f3ee;
 }
 
-footer{
+.body{
     background-color: #f4f3ee;
 }
 
-body{
-    background-color: #f4f3ee;
-}
 
 
 
@@ -165,20 +179,22 @@ body{
 
 #wedding-pic{
     object-fit: fill;
+    width: 255px;
     height: 340px;
-    width: 340px;
+    
 }
 
 #florist-pic{
     object-fit: fill;
+    width: 255px;
     height: 340px;
-    width: 340px;
+    
 }
 
 #our-products{
     object-fit: fill;
-    height: 340px;
-    width: 340px;
+    width: 255px;
+    
 }
 
 .occasions{
