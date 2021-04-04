@@ -55,27 +55,33 @@ h6{
     text-align: center;
     font-family: 'Shippori Mincho B1', sans-serif;
     color: #1a581a;
-    
-    
 }
 
-.first-picture{
-    max-width: 268.61x;
-    max-height: 340px;
-    display: flex;
-    margin-left: 45px;
+#home-page-image{
+    background: url("../images/image3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 600px;
 }
 
-.second-picture{
-    max-width: 268.61px;
-    max-height: 340px;
-    margin-left: 45px;
+.first-best-seller{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
 }
 
-.third-picture{
-    max-width: 268.61px;
-    max-height: 340px;
-    margin-left: 45px;
+.second-best-seller{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+}
+
+.third-best-seller{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
 }
 
 h2{
