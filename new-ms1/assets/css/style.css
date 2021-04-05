@@ -212,94 +212,10 @@ ul{
 
 /*-----------------------------------Product Page*/
 
-
-.first-product{
+.product-page{
     object-fit: fill;
-    height: 340px;
     width: 255px;
-    margin-left: 45px;
-}
-
-.second-product{
-    object-fit: fill;
     height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.third-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px;
-}
-
-.fourth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px;
-}
-
-.fifth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.sixth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.seventh-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.eighth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.ninth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.tenth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.eleventh-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-.twelfth-product{
-    object-fit: fill;
-    height: 340px;
-    width: 255px;
-    margin-left: 45px
-}
-
-h4{
-    text-align: center;
-    font-family: 'Shippori Mincho B1', sans-serif;
 }
 
 /*-----------------------------------View More Product page*/
@@ -311,6 +227,7 @@ h4{
     background-size: contain;
     min-height: 600px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .tropical-summer{
@@ -319,6 +236,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .pretty-in-pink{
@@ -327,6 +246,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
@@ -336,6 +257,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .universe{
@@ -344,7 +267,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
-    
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .mellow-yellow{
@@ -353,6 +277,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .caribbean-twist{
@@ -361,6 +287,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .mammamia{
@@ -369,6 +297,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .valentines{
@@ -377,6 +307,8 @@ h4{
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
