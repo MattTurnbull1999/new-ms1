@@ -50,6 +50,13 @@ section{
     background-color: #f4f3ee;
 }
 
+.price-list{
+    float: left;
+    list-style: circle;
+    color: #1a581a;
+    font-family: 'Shippori Mincho B1', sans-serif;
+}
+
 /*-------------------------------best-seller*/
 h6{
     text-align: center;
