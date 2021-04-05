@@ -109,7 +109,6 @@ button:hover{
 .contact-us {
     text-align: center;
     font-family: 'Playfair Display SC', serif;
-    padding-top: 30px;
     color: #f4f3ee
 }
 
@@ -119,6 +118,10 @@ h2{
 
 footer{
     background-color: #1a581a;;
+}
+
+.footer-links{
+    color: #f4f3ee;
 }
 
 .footer-email {
