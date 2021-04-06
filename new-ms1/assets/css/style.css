@@ -71,6 +71,8 @@ h6{
     background-size: cover;
     width: 500px;
     height: 600px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .first-best-seller{
@@ -106,45 +108,24 @@ button:hover{
 
 /* ----------------------------------------Footer */
 
-.contact-us {
-    text-align: center;
-    font-family: 'Playfair Display SC', serif;
-    color: #f4f3ee
-}
-
-h2{
-    text-align: center;
-}
-
 footer{
     background-color: #1a581a;
     bottom: 0px;
+}
+
+.footer-content{
+    color: #f4f3ee;
 }
 
 .footer-links{
     color: #f4f3ee;
 }
 
-.footer-email {
-    color: #f4f3ee;
-    font-family: 'Shippori Mincho B1', sans-serif;
-    text-align: center;
-
+body{
+    background-color: #1a581a;
 }
 
-.social-media-links{
 
-    display: inline;
-    text-align: center;
-}
-
-ul{
-    text-align: center;
-}
-
-.fab{
-    color: #1a581a;
-}
 /*----------------------------------------Background color */
 #hero-outer{
     background-color: #f4f3ee;
@@ -326,6 +307,9 @@ ul{
     margin-bottom: 30px;
 }
 
+.fa-3x{
+    color: #1a581a;
+}
 
 
 /*-----------------------------------View More Product page*/
@@ -383,6 +367,11 @@ ul{
         margin-left: 15px;
         margin-right: 15px;
         margin-top: auto;
+    }
+
+    .home-page-image{
+        margin-left: 15px;
+        margin-right: 15px;
     }
 }
 
