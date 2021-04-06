@@ -117,7 +117,8 @@ h2{
 }
 
 footer{
-    background-color: #1a581a;;
+    background-color: #1a581a;
+    bottom: 0px;
 }
 
 .footer-links{
@@ -328,4 +329,61 @@ ul{
 
 
 /*-----------------------------------View More Product page*/
+
+@media screen and (max-width:500px){
+    .valentines{
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-top: auto;
+    }
+
+    .mammamia{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .mellow-yellow{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .pretty-in-pink{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .tropical-summer{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .universe{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .caribbean-twist{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .heaven-scent{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .cool-breeze{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+}
+
 
